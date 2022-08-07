@@ -29,5 +29,5 @@ Here are some ideas to get you started:
     <img src="https://activity-graph.herokuapp.com/graph?username=Liuwins&theme=xcode" />
 </div>
 <div align="center">
-    <img src="https://stats.justsong.cn/api/bilibili/?id=bili_79963710041">
+    <img src="https://stats.justsong.cn/api/bilibili/?id=321586172">
 </div>
