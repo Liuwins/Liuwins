@@ -15,7 +15,7 @@
 	-->
     <module name="DataSource">
         <!--system default datasouce -->
-		<group name="default">
+			<group name="default">
             <configValue key="Database-Type">Oracle</configValue>
             <configValue key="Jdbc-Type"/>
             <configValue key="C3p0-DriverClass">oracle.jdbc.driver.OracleDriver</configValue>
